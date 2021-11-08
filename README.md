@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RASHEEDHUGE
-- 👀 I’m interested in javaq, php and python
+- 👀 I’m interested in java, php and python
 - 🌱 I’m currently learning the different types of api codes
 - 💞️ I’m looking to collaborate on wordpress websites and security maintenance
 - 📫 How to reach me ... you can reach out to me via email on rasheed@hugestudios.com
